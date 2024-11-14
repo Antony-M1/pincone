@@ -6,7 +6,7 @@ Pinecone is a vector database that makes it easy to add similarity search to any
 ---
 **What is [WonderVector5000](./docs/WonderVector5000.md)?**
 
-Its a document its not available in any LLM for testing purposes. [Source](https://docs.pinecone.io/guides/get-started/build-a-rag-chatbot#2-store-knowledge-in-pinecone)
+Its a document its not available in any LLM, this is for testing purposes. [Source](https://docs.pinecone.io/guides/get-started/build-a-rag-chatbot#2-store-knowledge-in-pinecone)
 
 **Summary**
 
