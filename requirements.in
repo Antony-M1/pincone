@@ -2,4 +2,3 @@ pinecone<=5.4.0
 langchain<=0.3.7
 langchain-pinecone<=0.2.0
 langchain-text-splitters<=0.3.2
-llangchain-groq
