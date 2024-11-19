@@ -3,6 +3,10 @@
 # Pinecone
 Pinecone is a vector database that makes it easy to add similarity search to any application.
 
+**Reference**
+- [IT Threat Detection with Similarity Search](https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/it-threat-detection.ipynb#scrollTo=b4Yv1jeGywpL)
+- [Semantic Search](https://colab.research.google.com/github/pinecone-io/examples/blob/master/docs/semantic-search.ipynb#scrollTo=dJbjE-iq_yMr)
+
 ---
 **What is [WonderVector5000](./docs/WonderVector5000.md)?**
 
